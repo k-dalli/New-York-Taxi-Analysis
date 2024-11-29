@@ -1,5 +1,5 @@
 # New-York-Taxi-Analysis
 
 Explanation
-##Methodology
+## Methodology
 This is how i do things
